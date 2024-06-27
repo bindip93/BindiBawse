@@ -6,6 +6,8 @@ I am currently in the process of transitioning into the Cyber Security realm.
 ## Projects
 
 ### Project 1: Securing an Azure Web App
+[Over View](./Projects/project_1/README.md)
+
 
 ### Project 2: Total Rekall CTF
 
